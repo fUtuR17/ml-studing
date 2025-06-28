@@ -1,5 +1,5 @@
 ## ml-studing
 
 -------------------------------------------
-| Learming ml from zero using open sources |
+Learming ml from zero using open sources 
 -------------------------------------------
